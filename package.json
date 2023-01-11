@@ -1,0 +1,31 @@
+{
+  "name": "desafio-sharenergy-2023-01-back",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "license": "MIT",
+  "repository": "https://github.com/susimararoberti/desafio-sharenergy-2023-01-back",
+  "scripts": {
+    "dev": "nodemon --exec node --loader ts-node/esm src/app.ts",
+    "build": "tsc",
+    "start": "cross-env NODE_env=production node dist/src/app.js"
+  },
+  "dependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/cors": "^2.8.13",
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.15",
+    "@types/jsonwebtoken": "^9.0.0",
+    "@types/mongoose": "^5.11.97",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.3",
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.4"
+  }
+}
