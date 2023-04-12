@@ -1,4 +1,4 @@
-<h1 align="center">Desafio Sharenergy / 2023-01 / Backend</h1>
+<h1 align="center">Projeto Full Stack / Backend</h1>
 
 ## 💻 Projeto
 
@@ -28,7 +28,7 @@ API destinada a listar contatos aleatórios, renderizar por busca os status da A
 
 ### 5 - Front End
 
-- O frontend da aplicação está disponível no seguinte repositório: [https://github.com/susimararoberti/desafio-sharenergy-2023-01](https://github.com/susimararoberti/desafio-sharenergy-2023-01)
+- O frontend da aplicação está disponível no seguinte repositório: [https://github.com/susimararoberti/Projeto-Full-Stack](https://github.com/susimararoberti/Projeto-Full-Stack)
 
 ## Nota:
 
